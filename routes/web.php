@@ -29,6 +29,6 @@ Route::put('/funrut', function () {
 }); */
 
 Route::delete('miprimerl', function () {
-    return "soy una ruta con mame";
+    return "soy una ruta con.";
 })->name('layout');
 
